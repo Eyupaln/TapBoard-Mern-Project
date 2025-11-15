@@ -350,7 +350,7 @@ Sorularınız veya önerileriniz için:
 ## 📸 Ekran Görüntüleri
 
 ### Ana Sayfa
-![Ana Sayfa](screenshots/home.png)
+![Ana Sayfa](frontend/src/assets/screen.png)
 *Not listeleme ekranı - Tüm notlarınız kart görünümünde*
 
 
