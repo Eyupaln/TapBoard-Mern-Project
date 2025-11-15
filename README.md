@@ -2,7 +2,7 @@
 
 ## Ekran Görüntüleri
 
-### Ana Sayfa
+
 ![Ana Sayfa](frontend/src/assets/screen.png)
 *Not listeleme ekranı - Tüm notlarınız kart görünümünde*
 
