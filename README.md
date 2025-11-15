@@ -1,6 +1,13 @@
 # TapBoard - Sade ve Kullanışlı Not Uygulaması
 
+## Ekran Görüntüleri
+
+### Ana Sayfa
+![Ana Sayfa](frontend/src/assets/screen.png)
+*Not listeleme ekranı - Tüm notlarınız kart görünümünde*
+
 Merhaba! TapBoard, MERN stack ile geliştirilmiş, sade ve kullanıcı dostu bir not alma uygulamasıdır. Karmaşık özelliklerden uzak durarak temel not alma ihtiyaçlarına odaklandım.
+
 
 ## Proje Hakkında
 
@@ -347,11 +354,7 @@ Sorularınız veya önerileriniz için:
 
 ---
 
-## 📸 Ekran Görüntüleri
 
-### Ana Sayfa
-![Ana Sayfa](frontend/src/assets/screen.png)
-*Not listeleme ekranı - Tüm notlarınız kart görünümünde*
 
 
 ## 🎯 Öğrenme Çıktıları
